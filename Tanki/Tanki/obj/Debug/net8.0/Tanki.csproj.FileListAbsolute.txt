@@ -1,0 +1,15 @@
+C:\Users\serza\source\repos\-\Tanki\Tanki\bin\Debug\net8.0\Tanki.exe
+C:\Users\serza\source\repos\-\Tanki\Tanki\bin\Debug\net8.0\Tanki.deps.json
+C:\Users\serza\source\repos\-\Tanki\Tanki\bin\Debug\net8.0\Tanki.runtimeconfig.json
+C:\Users\serza\source\repos\-\Tanki\Tanki\bin\Debug\net8.0\Tanki.dll
+C:\Users\serza\source\repos\-\Tanki\Tanki\bin\Debug\net8.0\Tanki.pdb
+C:\Users\serza\source\repos\-\Tanki\Tanki\obj\Debug\net8.0\Tanki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serza\source\repos\-\Tanki\Tanki\obj\Debug\net8.0\Tanki.AssemblyInfoInputs.cache
+C:\Users\serza\source\repos\-\Tanki\Tanki\obj\Debug\net8.0\Tanki.AssemblyInfo.cs
+C:\Users\serza\source\repos\-\Tanki\Tanki\obj\Debug\net8.0\Tanki.csproj.CoreCompileInputs.cache
+C:\Users\serza\source\repos\-\Tanki\Tanki\obj\Debug\net8.0\Tanki.sourcelink.json
+C:\Users\serza\source\repos\-\Tanki\Tanki\obj\Debug\net8.0\Tanki.dll
+C:\Users\serza\source\repos\-\Tanki\Tanki\obj\Debug\net8.0\refint\Tanki.dll
+C:\Users\serza\source\repos\-\Tanki\Tanki\obj\Debug\net8.0\Tanki.pdb
+C:\Users\serza\source\repos\-\Tanki\Tanki\obj\Debug\net8.0\Tanki.genruntimeconfig.cache
+C:\Users\serza\source\repos\-\Tanki\Tanki\obj\Debug\net8.0\ref\Tanki.dll
